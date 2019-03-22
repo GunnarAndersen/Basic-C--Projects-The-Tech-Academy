@@ -1,0 +1,7 @@
+C:\Users\Gunnar\source\repos\IncomeProgram\IncomeProgram\bin\Debug\IncomeProgram.exe.config
+C:\Users\Gunnar\source\repos\IncomeProgram\IncomeProgram\bin\Debug\IncomeProgram.exe
+C:\Users\Gunnar\source\repos\IncomeProgram\IncomeProgram\bin\Debug\IncomeProgram.pdb
+C:\Users\Gunnar\source\repos\IncomeProgram\IncomeProgram\obj\Debug\IncomeProgram.csprojAssemblyReference.cache
+C:\Users\Gunnar\source\repos\IncomeProgram\IncomeProgram\obj\Debug\IncomeProgram.csproj.CoreCompileInputs.cache
+C:\Users\Gunnar\source\repos\IncomeProgram\IncomeProgram\obj\Debug\IncomeProgram.exe
+C:\Users\Gunnar\source\repos\IncomeProgram\IncomeProgram\obj\Debug\IncomeProgram.pdb
