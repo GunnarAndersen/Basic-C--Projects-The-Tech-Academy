@@ -1,0 +1,7 @@
+C:\Users\Gunnar\source\repos\TechAcademyDrill3\TechAcademyDrill3\bin\Debug\TechAcademyDrill3.exe.config
+C:\Users\Gunnar\source\repos\TechAcademyDrill3\TechAcademyDrill3\bin\Debug\TechAcademyDrill3.exe
+C:\Users\Gunnar\source\repos\TechAcademyDrill3\TechAcademyDrill3\bin\Debug\TechAcademyDrill3.pdb
+C:\Users\Gunnar\source\repos\TechAcademyDrill3\TechAcademyDrill3\obj\Debug\TechAcademyDrill3.csprojAssemblyReference.cache
+C:\Users\Gunnar\source\repos\TechAcademyDrill3\TechAcademyDrill3\obj\Debug\TechAcademyDrill3.csproj.CoreCompileInputs.cache
+C:\Users\Gunnar\source\repos\TechAcademyDrill3\TechAcademyDrill3\obj\Debug\TechAcademyDrill3.exe
+C:\Users\Gunnar\source\repos\TechAcademyDrill3\TechAcademyDrill3\obj\Debug\TechAcademyDrill3.pdb
