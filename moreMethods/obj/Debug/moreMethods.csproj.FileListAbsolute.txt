@@ -1,0 +1,7 @@
+C:\Users\Gunnar\source\repos\moreMethods\moreMethods\bin\Debug\moreMethods.exe.config
+C:\Users\Gunnar\source\repos\moreMethods\moreMethods\bin\Debug\moreMethods.exe
+C:\Users\Gunnar\source\repos\moreMethods\moreMethods\bin\Debug\moreMethods.pdb
+C:\Users\Gunnar\source\repos\moreMethods\moreMethods\obj\Debug\moreMethods.csprojAssemblyReference.cache
+C:\Users\Gunnar\source\repos\moreMethods\moreMethods\obj\Debug\moreMethods.csproj.CoreCompileInputs.cache
+C:\Users\Gunnar\source\repos\moreMethods\moreMethods\obj\Debug\moreMethods.exe
+C:\Users\Gunnar\source\repos\moreMethods\moreMethods\obj\Debug\moreMethods.pdb
