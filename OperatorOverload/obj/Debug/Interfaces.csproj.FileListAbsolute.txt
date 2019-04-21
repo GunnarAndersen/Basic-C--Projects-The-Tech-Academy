@@ -1,0 +1,14 @@
+C:\Users\Gunnar\source\repos\Interfaces\Interfaces\bin\Debug\Interfaces.exe.config
+C:\Users\Gunnar\source\repos\Interfaces\Interfaces\bin\Debug\Interfaces.exe
+C:\Users\Gunnar\source\repos\Interfaces\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\Gunnar\source\repos\Interfaces\Interfaces\obj\Debug\Interfaces.csprojAssemblyReference.cache
+C:\Users\Gunnar\source\repos\Interfaces\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Gunnar\source\repos\Interfaces\Interfaces\obj\Debug\Interfaces.exe
+C:\Users\Gunnar\source\repos\Interfaces\Interfaces\obj\Debug\Interfaces.pdb
+C:\Users\Gunnar\source\repos\OperatorOverload\Interfaces\obj\Debug\Interfaces.csprojAssemblyReference.cache
+C:\Users\Gunnar\source\repos\OperatorOverload\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Gunnar\source\repos\OperatorOverload\Interfaces\obj\Debug\Interfaces.exe
+C:\Users\Gunnar\source\repos\OperatorOverload\Interfaces\obj\Debug\Interfaces.pdb
+C:\Users\Gunnar\source\repos\OperatorOverload\Interfaces\bin\Debug\Interfaces.exe.config
+C:\Users\Gunnar\source\repos\OperatorOverload\Interfaces\bin\Debug\Interfaces.exe
+C:\Users\Gunnar\source\repos\OperatorOverload\Interfaces\bin\Debug\Interfaces.pdb
