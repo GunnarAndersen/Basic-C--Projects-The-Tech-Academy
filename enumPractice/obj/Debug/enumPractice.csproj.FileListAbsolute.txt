@@ -1,0 +1,7 @@
+C:\Users\Gunnar\source\repos\enumPractice\enumPractice\bin\Debug\enumPractice.exe.config
+C:\Users\Gunnar\source\repos\enumPractice\enumPractice\bin\Debug\enumPractice.exe
+C:\Users\Gunnar\source\repos\enumPractice\enumPractice\bin\Debug\enumPractice.pdb
+C:\Users\Gunnar\source\repos\enumPractice\enumPractice\obj\Debug\enumPractice.csprojAssemblyReference.cache
+C:\Users\Gunnar\source\repos\enumPractice\enumPractice\obj\Debug\enumPractice.csproj.CoreCompileInputs.cache
+C:\Users\Gunnar\source\repos\enumPractice\enumPractice\obj\Debug\enumPractice.exe
+C:\Users\Gunnar\source\repos\enumPractice\enumPractice\obj\Debug\enumPractice.pdb
