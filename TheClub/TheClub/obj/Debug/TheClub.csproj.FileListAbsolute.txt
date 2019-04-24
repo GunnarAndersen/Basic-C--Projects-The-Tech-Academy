@@ -1,0 +1,7 @@
+C:\Users\Gunnar\source\repos\TheClub\TheClub\bin\Debug\TheClub.exe.config
+C:\Users\Gunnar\source\repos\TheClub\TheClub\bin\Debug\TheClub.exe
+C:\Users\Gunnar\source\repos\TheClub\TheClub\bin\Debug\TheClub.pdb
+C:\Users\Gunnar\source\repos\TheClub\TheClub\obj\Debug\TheClub.csprojAssemblyReference.cache
+C:\Users\Gunnar\source\repos\TheClub\TheClub\obj\Debug\TheClub.csproj.CoreCompileInputs.cache
+C:\Users\Gunnar\source\repos\TheClub\TheClub\obj\Debug\TheClub.exe
+C:\Users\Gunnar\source\repos\TheClub\TheClub\obj\Debug\TheClub.pdb
