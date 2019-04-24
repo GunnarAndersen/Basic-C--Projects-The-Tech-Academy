@@ -15,8 +15,11 @@ namespace FileIO
             int uNum = int.Parse(Console.ReadLine());
             string rlyANum = Convert.ToString(uNum);
             File.WriteAllText(@"C:\nums\nums.txt", rlyANum);
+            
+            string txtContents = System.IO.File.ReadAllText(@"C:\nums\nums.txt");
 
-            Console.WriteLine(rlyANum);
+            // Display the file contents to the console. Variable text is a string.
+            System.Console.WriteLine("Contents of your text file = {0}", txtContents);
             Console.ReadLine();
         }
     }
